@@ -71,3 +71,6 @@ most accurate but it is still some improovement to the og project, i also added 
 		|
 		|this will open the file then use those payloads in the SQL injection, if you do not use this option it is fine, this tool has its own built in SQL payloads
 ```
+<h1> INSTALLS </h1> 
+<br>
+<br> 
