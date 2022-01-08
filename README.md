@@ -20,8 +20,7 @@ most accurate but it is still some improovement to the og project, i also added 
 ```
 <br>
 <br>
-# help menu and flags 
-<br>
+ELP MENU AND FLAGS
 ```
 	_______  _____         _____ _______ _____ __   _ ______  _______  ______
 	|______ |   __| |        |   |______   |   | \  | |     \ |______ |_____/
