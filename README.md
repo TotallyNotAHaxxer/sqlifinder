@@ -6,6 +6,9 @@
 ```
 <br>
 SQLI Finder ( GO edition ) is a very simple SQLI Ajax crawler and SQL injection scanner re written and mind mapped from the original sqlifinder which is seen here https://github.com/americo/sqlifinder
+
+installs: git clone https://github.com/ArkAngeL43/sqlifinder ; cd sqlifinder ; chmod +x ./install.sh ; ./install.sh ; clear  
+
 <br>
 
 # what is so special about this remake 
@@ -72,12 +75,6 @@ most accurate but it is still some improovement to the og project, i also added 
 		|this will open the file then use those payloads in the SQL injection, if you do not use this option it is fine, this tool has its own built in SQL payloads
 ```
 <h1> INSTALLS </h1> 
-<br>
-<br>
-```
-git clone https://github.com/ArkAngeL43/sqlifinder ; cd sqlifinder ; chmod +x ./install.sh ; ./install.sh ; clear  
-```
-<br>
 <br>
 ![demo1](demo1.png "")
 
