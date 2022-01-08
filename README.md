@@ -18,7 +18,6 @@ can get a person caught, so i decided to add some tor projection when constantly
 
 most accurate but it is still some improovement to the og project, i also added signal handelers, connection testers, tor socket testers, individual scanning, a faster spider, sleep methods so tor doesnt time out on making requests etc etc and a bit more error handeling.
 ```
-<br>
 ```
 	Flags:
 		|-target  | List a HTTPS/HTTP URL as a target     |STAT ~> String,  REQUIRED                   |
@@ -29,6 +28,8 @@ most accurate but it is still some improovement to the og project, i also added 
 		|-targetl | Activate list scanning                |STAT ~> Boolean, OPTIONAL | TRUE/FALSE      |
 		|-l       | Initate or open the list or URLS      |STAT ~> String,  REQUIRED |                 |
 		|=========+=======================================+============================================|   
+```
+```
 	
 	All possible command usages 
 
