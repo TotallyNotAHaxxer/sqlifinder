@@ -77,3 +77,7 @@ most accurate but it is still some improovement to the og project, i also added 
 ```
 git clone https://github.com/ArkAngeL43/sqlifinder ; cd sqlifinder ; chmod +x ./install.sh ; ./install.sh ; clear  
 ```
+<br>
+<br>
+![demo1](demo1.png "")
+
