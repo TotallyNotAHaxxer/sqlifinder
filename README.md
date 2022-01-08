@@ -76,4 +76,10 @@ most accurate but it is still some improovement to the og project, i also added 
 ```
 
 ![demo1](demo1.png "")
+<br>
+![demo1](demo2.png "")
+<br>
+![demo1](demo3.png "")
+
+
 
