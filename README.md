@@ -73,4 +73,7 @@ most accurate but it is still some improovement to the og project, i also added 
 ```
 <h1> INSTALLS </h1> 
 <br>
-<br> 
+<br>
+```
+git clone https://github.com/ArkAngeL43/sqlifinder ; cd sqlifinder ; chmod +x ./install.sh ; ./install.sh ; clear  
+```
